@@ -37,14 +37,12 @@ Create a new A record
 	record = {"name": "mysubdomain", "type": "A", "content": "127.0.0.1"}
 	client.call("post", "domains/dom123456/dns", record)
 
-Create a new SRV record
-Content is "{priority} {weight} {port} {target}"
+Create a new SRV record, content is "{priority} {weight} {port} {target}"
 
 	record = {"name": "mysubdomain", "type": "SRV", "content": "10 10 123 __service"}
 	client.call("post", "domains/dom123456/dns", record)
 
-Create a new MX record
-Content is "{priority} {host}"
+Create a new MX record, content is "{priority} {host}"
 
     record = {"name": "mysubdomain", "type": "MX", "content": "10 mail"}
 	client.call("post", "domains/dom123456/dns", record)
