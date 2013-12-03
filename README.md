@@ -4,7 +4,7 @@ A simple python library for managing domains registered at hover.com.
 
 ### Credits
 
-This project is based primarily on the original [gist](http://gist.github.com/dankrause/5585907) by [Dan Krause](http://gist.github.com/dankrause), with [updates](http://gist.github.com/rleemorlang/7225451) by [Rick Lee-Morlang](http://gist.github.com/rleemorlang).
+This project is [based](http://gist.github.com/jmckind/7763461) primarily on the original [gist](http://gist.github.com/dankrause/5585907) by [Dan Krause](http://gist.github.com/dankrause), with [updates](http://gist.github.com/rleemorlang/7225451) by [Rick Lee-Morlang](http://gist.github.com/rleemorlang).
 
 ### Usage
 
