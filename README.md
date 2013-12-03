@@ -1,6 +1,6 @@
 # python-hover-client
 
-A simple python library for managing domains registered at hover.com.
+A simple python client library for managing DNS records at Hover.
 
 ### Credits
 
